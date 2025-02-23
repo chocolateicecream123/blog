@@ -1,9 +1,17 @@
 #main-heading1 {
-    background-image: url("sunset.jpg");
-    background-repeat: no-repeat;
+    background: rgb(62, 187, 148);
     color: white;
     text-align: center;
-    padding: 60px;
+    padding: 20px;
     font-family: "Oswald";
     font-size: 40px;
+    line-height: 80px;
+}
+#aboutproject {
+    font-family: Helvetica;
+    color: rgb(39, 46, 46);
+}
+#learn-disability {
+    font-family: Helvetica;
+    color: rgb(39, 46, 46);
 }
