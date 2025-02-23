@@ -1,10 +1,8 @@
 #main-heading1 {
-    background-color: black;
-    text-align: center;
+    background-image: url("sunset.jpg");
     color: white;
+    text-align: center;
     padding: 125px;
-}
-h1 {
     font-family: "Oswald";
     font-size: 150px;
 }
