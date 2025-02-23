@@ -1,10 +1,8 @@
-/*every h1 will be formatted to this font and size*/
-h1 {
-    font-family: Verdana;
-    font-size: 40px;
-}
 #main-heading1 {
     background-color: black;
     text-align: center;
     color: white;
+}
+h1 {
+    font-family: "Oswald";
 }
