@@ -1,8 +1,9 @@
 #main-heading1 {
     background-image: url("sunset.jpg");
+    background-repeat: no-repeat;
     color: white;
     text-align: center;
     padding: 60px;
     font-family: "Oswald";
-    font-size: 150px;
+    font-size: 40px;
 }
