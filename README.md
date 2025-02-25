@@ -1,5 +1,3 @@
 # Blog
-### What is this blog page about?
-This blog offers our progress in our game developments, events, and many other personal occurences that we decide to share!
-### When are the new pages coming out?
-Currently, we are not working on this blog. We are planning to start working on this around early June.
+### What is this page about?
+As part of the IB World Magnet program, 8th graders are required to create an SLP project. So, in response to this project, I decided to focus on Mental Disabilities and raising awareness and research for those who have disabilities and focusing on the great future of all. More information and ways to contribute will be added over time, as I am very busy with other schoolwork also. Enjoy, and send this website to as many people as possible to spread the message.
