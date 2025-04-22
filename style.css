@@ -10,12 +10,20 @@
 #aboutproject {
     font-family: Helvetica;
     color: rgb(39, 46, 46);
+    p {
+        font-family: Helvetica;
+        color: rgb(39, 46, 46);
+    }
 }
 #learn-disability {
     font-family: Helvetica;
     color: rgb(39, 46, 46);
 }
 #contribute-methods {
+    font-family: Helvetica;
+    color: rgb(39, 46, 46);
+}
+#institutions {
     font-family: Helvetica;
     color: rgb(39, 46, 46);
 }
