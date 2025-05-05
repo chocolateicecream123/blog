@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     slideshowContainer.style.position = "relative";
     slideshowContainer.style.width = "500px";
     slideshowContainer.style.height = "300px";
+    slideshowContainer.style.margin = "0 auto"; // Center the slideshow
     slideshowContainer.style.overflow = "hidden";
 
     // Array of image URLs
@@ -22,6 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
     imgElement.src = images[currentIndex];
     imgElement.style.width = "100%";
     imgElement.style.height = "100%";
+    imgElement.style.objectFit = "contain"; // Prevent stretching
     imgElement.style.position = "absolute";
     imgElement.style.transition = "opacity 0.5s";
     slideshowContainer.appendChild(imgElement);
