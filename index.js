@@ -11,9 +11,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Array of image URLs
     const images = [
-        "image1.jpg",
-        "image2.jpg",
-        "image3.jpg"
+        "websiteicon.png",
+        "sunset.jpg"
     ];
 
     let currentIndex = 0;
